@@ -1,3 +1,3 @@
 # Card-challenge-2
-Live Preview: 
-https://codersuresh.github.io
+Card Component created by using plain HTML and CSS only.
+Live Preview: https://card-com.firebaseapp.com/
